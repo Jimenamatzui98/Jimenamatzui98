@@ -15,7 +15,7 @@
 
 - 👋 Hi, I’m @Jimenamatzui98
 - 🤓 I’m a future Master's student in Sustainable development at Leipzig University.
-- 🌱 My goal is to apply Data analytics/Science to contribute to the Sustainable Development Goals
+- 🌱 My goal is to apply Data Analytics/Data Science to contribute to the Sustainable Development Goals
 - 🤝 Looking to collaborate and gain experience in the area!
 - 📫 Reach me at jimena.matzui@gmail.com !
 
